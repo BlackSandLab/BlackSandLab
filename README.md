@@ -19,14 +19,14 @@
 We are **BlackSandLab**, a vibrant hackerspace at the **University of Western Macedonia** (Department of Electrical & Computer Engineering). Our mission is to create a collaborative environment where students, researchers, and tech enthusiasts can learn, experiment, and build innovative projects together.
 
 ```ascii
-  888888b.   888                   888       .d8888b.                         888 888               888      
-  888  "88b  888                   888      d88P  Y88b                        888 888               888      
-  888  .88P  888                   888      Y88b.                             888 888               888      
-  8888888K.  888  8888b.   .d8888b 888  888  "Y888b.    8888b.  88888b.   .d88888 888       8888b.  88888b.  
-  888  "Y88b 888     "88b d88P"    888 .88P     "Y88b.     "88b 888 "88b d88" 888 888          "88b 888 "88b 
-  888    888 888 .d888888 888      888888K        "888 .d888888 888  888 888  888 888      .d888888 888  888 
-  888   d88P 888 888  888 Y88b.    888 "88b Y88b  d88P 888  888 888  888 Y88b 888 888      888  888 888 d88P 
-  8888888P"  888 "Y888888  "Y8888P 888  888  "Y8888P"  "Y888888 888  888  "Y88888 88888888 "Y888888 88888P"  
+    888888b.   888                   888       .d8888b.                         888 888               888      
+    888  "88b  888                   888      d88P  Y88b                        888 888               888      
+    888  .88P  888                   888      Y88b.                             888 888               888      
+    8888888K.  888  8888b.   .d8888b 888  888  "Y888b.    8888b.  88888b.   .d88888 888       8888b.  88888b.  
+    888  "Y88b 888     "88b d88P"    888 .88P     "Y88b.     "88b 888 "88b d88" 888 888          "88b 888 "88b 
+    888    888 888 .d888888 888      888888K        "888 .d888888 888  888 888  888 888      .d888888 888  888 
+    888   d88P 888 888  888 Y88b.    888 "88b Y88b  d88P 888  888 888  888 Y88b 888 888      888  888 888 d88P 
+    8888888P"  888 "Y888888  "Y8888P 888  888  "Y8888P"  "Y888888 888  888  "Y88888 88888888 "Y888888 88888P"  
 ```
 
 ## 🎯 What We Do

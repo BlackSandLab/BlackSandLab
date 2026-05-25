@@ -68,9 +68,9 @@ We are **BlackSand Lab**, a vibrant hackerspace at the **University of Western M
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-<!-- 
-</div>
 
+</div>
+<!-- 
 ## 📊 Our Activity
 
 <div align="center">

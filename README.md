@@ -97,11 +97,11 @@ We are **BlackSand Lab**, a vibrant hackerspace at the **University of Western M
 
 ## 📅 Upcoming Events
 
-- 🎓 **Linux InstallFest** - *October 15, 2025*
-- 🔐 **Cybersecurity Workshop** - *October 22, 2025*
-- 🏆 **Internal Hackathon** - *November 5-6, 2025*
-- 📡 **SDR Fundamentals** - *November 12, 2025*
-- 🚁 **Drone Racing Day** - *November 20, 2025*
+- 🎓 **Linux InstallFest** - *TBA*
+- 🔐 **Cybersecurity Workshop** - *TBA*
+- 🏆 **Internal Hackathon** - *TBA*
+- 📡 **SDR Fundamentals** - *TBA*
+- 🚁 **Drone Racing Day** - *TBA*
 
 > Check our [website](https://blacksand.sh) for the latest schedule!
 

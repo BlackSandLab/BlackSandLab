@@ -136,7 +136,7 @@ We are committed to providing a welcoming and inclusive environment for everyone
 
 ### 💚 Our Sponsors
 
-*Interested in sponsoring BlackSandLab? [Get in touch!](mailto:sponsorship@BlackSandLab.com)*
+*Interested in sponsoring BlackSandLab? [Get in touch!](mailto:info@blacksand.sh)*
 
 ---
 

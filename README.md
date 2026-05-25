@@ -70,10 +70,10 @@ We are **BlackSand Lab**, a vibrant hackerspace at the **University of Western M
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 </div>
-
+<div align="center">
 ## 🚀 Featured Projects
 
-<div align="center">
+
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|

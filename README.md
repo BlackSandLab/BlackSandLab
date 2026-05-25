@@ -5,7 +5,7 @@
 ### *Hackerspace | Innovation Hub | Tech Community*
 
 [![Website](https://img.shields.io/badge/Website-BlackSandLab.com-blue?style=flat-square&logo=google-chrome)](https://www.BlackSandLab.com/)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/your-invite)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Mye9fBSh8)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/BlackSandLab)
 
 **Hack the Planet, Build the Future** 🚀
@@ -136,7 +136,7 @@ We are committed to providing a welcoming and inclusive environment for everyone
 
 - 🌐 **Website**: [blacksand.sh](https://blacksand.sh/)
 - 📧 **Email**: info@blacksand.sh
-- 💬 **Discord**: [Join our server](https://discord.gg/your-invite)
+- 💬 **Discord**: [Join our server](https://discord.gg/Mye9fBSh8)
 <!--- 🐦 **Twitter**: [@BlackSandLab](https://twitter.com/BlackSandLab) -->
 <!--- 📷 **Instagram**: [@BlackSandLab](https://instagram.com/BlackSandLab) -->
 

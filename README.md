@@ -4,7 +4,7 @@
 
 ### *Hackerspace | Innovation Hub | Tech Community*
 
-[![Website](https://img.shields.io/badge/Website-BlackSandLab.com-blue?style=flat-square&logo=google-chrome)](https://blacksand.sh/)
+[![Website](https://img.shields.io/badge/Website-blacksand.sh-blue?style=flat-square&logo=google-chrome)](https://blacksand.sh/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Mye9fBSh8)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/BlackSandLab)
 

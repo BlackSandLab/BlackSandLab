@@ -68,7 +68,7 @@ We are **BlackSand Lab**, a vibrant hackerspace at the **University of Western M
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
+<!-- 
 </div>
 
 ## 📊 Our Activity
@@ -80,7 +80,7 @@ We are **BlackSand Lab**, a vibrant hackerspace at the **University of Western M
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSandLab&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
-
+-->
 ## 🚀 Featured Projects
 
 <div align="center">

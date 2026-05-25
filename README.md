@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔬 BlackSandLab
+# 🔬 BlackSand Lab
 
 ### *Hackerspace | Innovation Hub | Tech Community*
 
@@ -16,7 +16,7 @@
 
 ## 👋 About Us
 
-We are **BlackSandLab**, a vibrant hackerspace at the **University of Western Macedonia** (Department of Electrical & Computer Engineering). Our mission is to create a collaborative environment where students, researchers, and tech enthusiasts can learn, experiment, and build innovative projects together.
+We are **BlackSand Lab**, a vibrant hackerspace at the **University of Western Macedonia** (Department of Electrical & Computer Engineering). Our mission is to create a collaborative environment where students, researchers, and tech enthusiasts can learn, experiment, and build innovative projects together.
 
 ```ascii
  888888b.   888                   888       .d8888b.                         888    888               888      
@@ -103,16 +103,16 @@ We are **BlackSandLab**, a vibrant hackerspace at the **University of Western Ma
 - 📡 **SDR Fundamentals** - *November 12, 2025*
 - 🚁 **Drone Racing Day** - *November 20, 2025*
 
-> Check our [website](https://www.BlackSandLab.com/) for the latest schedule!
+> Check our [website](https://blacksand.sh) for the latest schedule!
 
 ## 🤝 Get Involved
 
 We welcome everyone interested in technology, regardless of experience level!
 
 ### Join Us
-- 🌐 Visit our [website](https://www.BlackSandLab.com/)
+- 🌐 Visit our [website](https://blacksand.sh/)
 - 💬 Join our Discord server
-- 📧 Email us at: contact@BlackSandLab.com
+- 📧 Email us at: info@blacksand.sh
 - 📍 Visit us: University of Western Macedonia, ECE Department
 
 ### Contribute
@@ -125,7 +125,7 @@ We welcome everyone interested in technology, regardless of experience level!
 ### Support
 - ⭐ Star our repositories
 - 🔄 Share our projects
-- 🗣️ Spread the word about BlackSandLab
+- 🗣️ Spread the word about BlackSand Lab
 - 🤲 Sponsor our hardware and events
 
 ## 📜 Code of Conduct
@@ -134,11 +134,11 @@ We are committed to providing a welcoming and inclusive environment for everyone
 
 ## 📫 Contact
 
-- 🌐 **Website**: [BlackSandLab.com](https://www.BlackSandLab.com/)
-- 📧 **Email**: contact@BlackSandLab.com
+- 🌐 **Website**: [BlackSandLab.com](https://blacksand.sh/)
+- 📧 **Email**: info@blacksand.sh
 - 💬 **Discord**: [Join our server](https://discord.gg/your-invite)
-- 🐦 **Twitter**: [@BlackSandLab](https://twitter.com/BlackSandLab)
-- 📷 **Instagram**: [@BlackSandLab](https://instagram.com/BlackSandLab)
+//- 🐦 **Twitter**: [@BlackSandLab](https://twitter.com/BlackSandLab)
+//- 📷 **Instagram**: [@BlackSandLab](https://instagram.com/BlackSandLab)
 
 ---
 

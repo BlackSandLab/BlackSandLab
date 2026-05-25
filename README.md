@@ -137,8 +137,8 @@ We are committed to providing a welcoming and inclusive environment for everyone
 - 🌐 **Website**: [blacksand.sh](https://blacksand.sh/)
 - 📧 **Email**: info@blacksand.sh
 - 💬 **Discord**: [Join our server](https://discord.gg/your-invite)
-//- 🐦 **Twitter**: [@BlackSandLab](https://twitter.com/BlackSandLab)
-//- 📷 **Instagram**: [@BlackSandLab](https://instagram.com/BlackSandLab)
+<!--- 🐦 **Twitter**: [@BlackSandLab](https://twitter.com/BlackSandLab) -->
+<!--- 📷 **Instagram**: [@BlackSandLab](https://instagram.com/BlackSandLab) -->
 
 ---
 

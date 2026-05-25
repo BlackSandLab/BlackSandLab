@@ -70,17 +70,7 @@ We are **BlackSand Lab**, a vibrant hackerspace at the **University of Western M
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 </div>
-<!-- 
-## 📊 Our Activity
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlackSandLab&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSandLab&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-</div>
--->
 ## 🚀 Featured Projects
 
 <div align="center">
